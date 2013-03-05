@@ -9,6 +9,12 @@
             "email": "marcel.brand@achtachtel.de",
             "homepage": "http://achtachtel.de/",
             "role": "Developer"
+        },
+        {
+            "name": "Patric Mahler",
+            "email": "patric.mahler@live.de",
+            "homepage": "http://cry-ware.de/",
+            "role": "Developer"
         }
     ],
     "require": {
