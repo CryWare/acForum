@@ -1,0 +1,23 @@
+{
+    "name": "achtachtel/ac-forum",
+    "type": "library",
+    "description": "Forum module for ZF2",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Marcel Brand",
+            "email": "marcel.brand@achtachtel.de",
+            "homepage": "http://achtachtel.de/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "acForum\\": "/src"
+        }
+    }
+}
